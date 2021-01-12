@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6ddb07e491eb324bb735b8c9c46c2fb, type: 3}
+  m_Name: SettingGame
+  m_EditorClassIdentifier: 
+  DefaultProfile: {fileID: 11400000, guid: d8d790d6a9a96b44a99f666aece6f677, type: 2}
+  PurchaseConfig: {fileID: 11400000, guid: 4dc3b5148dce08a4d905e3667fcb2ff9, type: 2}
+  PlanetsConfig: {fileID: 11400000, guid: df2b0ddc9f422eb4ca435845b260b1ed, type: 2}
+  RewardConfig: {fileID: 11400000, guid: 1396c9c27921a48468a7dbedb712595a, type: 2}
+  DailyBonusConfig: {fileID: 11400000, guid: 29ff2ac9328e2d648bc4e27c55f5b535, type: 2}
+  BonusStaticsConfig: {fileID: 11400000, guid: fa9222c32029c5e4dbb918453bdaa2fe, type: 2}
+  ItemsMainConfig: {fileID: 11400000, guid: 17266baf85aa2494d944ef828ab64e6e, type: 2}

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e52ef05df01559346a6aeccf51baa373
+labels:
+- 2dMapeditor
+- 3dmapeditor
+- LevelEditor
+- MapEditor
+- TileMapEditor
+- ProTile
+- ProTileMapEditor
+- proTileMapEditor
+- proTile
+- Tile
+- Map
+- Level
+- Editor
+DefaultImporter:
+  userData: 

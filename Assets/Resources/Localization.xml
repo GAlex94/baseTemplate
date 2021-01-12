@@ -1,0 +1,8 @@
+﻿<data>
+  <button_play EN="Play" RU="Играть" />
+  <title_level EN="Level" RU="Уровень" />
+  <title_loading EN="Loading" RU="Загрузка" />
+  <lvl_text EN="Lvl." RU="Лвл." />
+  <title_complete EN="Level complete!" RU="Уровень пройден." />
+  <button_continue EN="Continue" RU="Продолжить" />
+</data>
